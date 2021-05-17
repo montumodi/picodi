@@ -1,0 +1,28 @@
+{
+  "name": "picodi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montumodi/picodi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montumodi/picodi/issues"
+  },
+  "homepage": "https://github.com/montumodi/picodi#readme",
+  "dependencies": {
+    "googleapis": "^68.0.0",
+    "googlephotos": "^0.3.4",
+    "got": "^11.8.2",
+    "mongodb": "^3.6.5",
+    "open": "^8.0.4",
+    "server-destroy": "^1.0.1"
+  }
+}
