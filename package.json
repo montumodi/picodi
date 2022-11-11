@@ -18,11 +18,17 @@
   },
   "homepage": "https://github.com/montumodi/picodi#readme",
   "dependencies": {
+    "etl": "^0.6.12",
+    "geodesy": "^1.1.3",
     "googleapis": "^68.0.0",
     "googlephotos": "^0.3.4",
     "got": "^11.8.2",
+    "lodash": "^4.17.21",
     "mongodb": "^3.6.5",
+    "ndjson": "^2.0.0",
     "open": "^8.0.4",
-    "server-destroy": "^1.0.1"
+    "server-destroy": "^1.0.1",
+    "shapefile": "^0.6.6",
+    "unzipper": "^0.10.11"
   }
 }

@@ -3,3 +3,7 @@ src/files/
 .DS_store
 oauth2.keys.json
 token.json
+4k.json
+list.json
+non4k.json
+out.json
